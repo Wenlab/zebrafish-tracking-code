@@ -21,7 +21,7 @@ Software and SDKs
 * Labview 2014 and associated software(NI Vision, FlexRIO, NI FPGA Modules etc.)
 * PI SDK for Labview
 * Pylon Windows
-* OpenCV 1.1
+* OpenCV 1.1 + Intel IPP6.1
 
 Installation for Windows 7
 -------------------------------------------------------

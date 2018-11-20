@@ -34,5 +34,5 @@ How to use
 * Open camera, stage and other essential devices.
 * Open and run 10-Tap 8-Bit Camera with DRAM (Host).vi.
 * Open the Pylon and configure the camera.
-* Now you can click the "acquire" button on labview front panel,then the images of the fish will be on the screen. 
+* Now you can click the "acquire" button on labview front panel, wait until fish appear on the screen. 
 * When the "FISH_FOUND" indicator is on,you can click the "Track" button to track the fish.

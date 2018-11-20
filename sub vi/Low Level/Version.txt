@@ -1,0 +1,10 @@
+C-867 GCS LabVIEW Driver Set
+
+Version: 5.7.4
+Manual file: C867_GCSLabVIEW_MS179E_574.pdf
+
+© Physik Instrumente (PI) GmbH & Co. KG
+76228 Karlsruhe, Germany      
+FAX: (+49)721-4846-299
+EMail: info@pi.ws                             
+www.pi.ws

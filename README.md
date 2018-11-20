@@ -1,11 +1,11 @@
 Introduction
 -------------------------------------------------------
-This VI and associated scripts accompany the paper” Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (Danio rerio)”(eLife 2017), which is developed to track a freely swimming zebrafish in a shallow chamber for whole brain imaging of neural activity associate with different behaviour. The code allow rapid estimation of fish movement and feedback control signals drove a high-speed motorized x-y stage to retain the entire fish head within the field of view of a high numerical aperture objective. 
+This VI and associated scripts were used to track a freely swimming zebrafish in a shallow chamber. The results were published in a paper entitled [Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (*Danio rerio*)](https://elifesciences.org/articles/28158). The code allows rapid estimate of fish movement and feedback control signals that drive a high-speed motorized x-y stage to retain the entire fish head within the field of view of a high NA objective. 
 
 
 Authors
 -------------------------------------------------------
-The project is written by Yong Jiang, Quan Wen(qwen@ustc.edu.cn ) and Wei Hang. <br>
+The project is written by Yong Jiang, Quan Wen(qwen@ustc.edu.cn) and Wei Hang. <br>
 
 License
 -------------------------------------------------------
@@ -21,7 +21,7 @@ Software and SDKs
 * Labview 2014 and associated software(NI Vision, FlexRIO, NI FPGA Modules etc.)
 * PI SDK for Labview
 * Pylon Windows
-* open CV
+* OpenCV 1.1
 
 Installation for Windows 7
 -------------------------------------------------------

@@ -1,6 +1,6 @@
 Introduction
 -------------------------------------------------------
-This VI and associated scripts were used to track a freely swimming zebrafish in a shallow chamber. The results were published in a paper entitled [Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (*Danio rerio*)](https://elifesciences.org/articles/28158). The code allows rapid estimate of fish movement and feedback control signals that drive a high-speed motorized x-y stage to retain the entire fish head within the field of view of a high NA objective. 
+This VI and associated scripts were used to track a freely swimming zebrafish in a shallow chamber. The results were published in a paper entitled [Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (*Danio rerio*)](https://doi.org/10.7554/eLife.28158.001). The code allows rapid estimate of fish movement and feedback control signals that drive a high-speed motorized x-y stage to retain the entire fish head within the field of view of a high NA objective. 
 
 
 Authors

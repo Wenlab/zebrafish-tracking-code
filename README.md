@@ -36,3 +36,7 @@ How to use
 * Open the Pylon and configure the camera.
 * Now you can click the "acquire" button on labview front panel, wait until fish appear on the screen. 
 * When the "FISH_FOUND" indicator is on,you can click the "Track" button to track the fish.
+
+How to cite
+-------------------------------------------------------
+* If you use part of the code for your own project, please cite our paper Cong. et. al., Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (*Danio rerio*), eLIFE, Sep 20 2017. 

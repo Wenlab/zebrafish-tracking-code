@@ -39,4 +39,4 @@ How to use
 
 How to cite
 -------------------------------------------------------
-* If you use part of the code for your own project, please cite our paper Cong. et. al., Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (*Danio rerio*), eLIFE, Sep 20 2017. 
+If you use part of the code for your own project, please cite our paper Cong et. al., Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (*Danio rerio*), eLIFE, Sep 20 2017. 
